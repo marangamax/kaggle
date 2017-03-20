@@ -1,6 +1,6 @@
 ------ Rossmann Forecast --------
 
-To run the code, please make sure the train.csv, test.csv, store.csv, and submission-sample.csv data sets from the Kaggle website are in the same folder as the IPyNB. After this, the whole thing can be run in one go with the output being poly3.csv which is a file with 41,088 lines in the format specified in submission-sample.csv.
+To run the code, please make sure the train.csv, test.csv, store.csv, and submission-sample.csv data sets from the Kaggle website (https://www.kaggle.com/c/rossmann-store-sales/data) are in the same folder as the IPyNB. After this, the whole thing can be run in one go with the output being poly3.csv which is a file with 41,088 lines in the format specified in submission-sample.csv.
 
 In this challenge, the task was to predict the sales values for individual Rossmann stores (1,115) for a period of 6 weeks. A training set was given for 2 years with an additional data set with extra store information.
 
